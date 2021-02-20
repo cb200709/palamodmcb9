@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Findiumblock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Findiumblock"
+      },
+      {
+        "value": "CUSTOM:Findiumblock"
+      },
+      {
+        "value": "CUSTOM:Findiumblock"
+      },
+      {
+        "value": "CUSTOM:Findiumblock"
+      },
+      {
+        "value": "CUSTOM:Findiumblock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Findiumstairs"
+    },
+    "name": "findiumstairscraft",
+    "namespace": "mod"
+  }
+}

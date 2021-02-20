@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "paladium",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Paladiumblock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Paladiumblock"
+      },
+      {
+        "value": "CUSTOM:Paladiumblock"
+      },
+      {
+        "value": "CUSTOM:Paladiumblock"
+      },
+      {
+        "value": "CUSTOM:Paladiumblock"
+      },
+      {
+        "value": "CUSTOM:Paladiumblock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Paladiumstair"
+    },
+    "name": "paladiumstairscraft",
+    "namespace": "mod"
+  }
+}

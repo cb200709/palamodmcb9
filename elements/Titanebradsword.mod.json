@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "broadsword_titane",
+    "customModelName": "Normal",
+    "name": "Titane Broadsword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Palamod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 0.5,
+    "enchantability": 10,
+    "damageVsEntity": 8.2,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Titaneingot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

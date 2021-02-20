@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "paladium_axe",
+    "customModelName": "Normal",
+    "name": "Paladium axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Palamod"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 6,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 7.5,
+    "usageCount": 4999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Paladiumingot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

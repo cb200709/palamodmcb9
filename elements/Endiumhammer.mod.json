@@ -1,0 +1,33 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endium_hammer",
+    "customModelName": "Normal",
+    "name": "Endium hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Palamod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 7,
+    "efficiency": 24.0,
+    "attackSpeed": 2.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endium_packIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "Hammer"
+    }
+  }
+}

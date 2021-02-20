@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "endium_pickaxe",
+    "customModelName": "Normal",
+    "name": "Endium Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Palamod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 7,
+    "efficiency": 20.0,
+    "attackSpeed": 1.5,
+    "enchantability": 24,
+    "damageVsEntity": 11.0,
+    "usageCount": 4999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endium_packIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

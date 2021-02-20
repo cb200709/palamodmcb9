@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "amethyst_helmet",
+    "enableBody": true,
+    "textureBody": "amethyst_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "amethyst_leggings",
+    "enableBoots": true,
+    "textureBoots": "amethyst_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Palamod"
+    },
+    "armorTextureFile": "amethyst_.png",
+    "helmetName": "Amethyste helmet",
+    "bodyName": "Amethyste chestplate",
+    "leggingsName": "Amethyste leggins",
+    "bootsName": "Amethyste boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 100,
+    "damageValueHelmet": 5,
+    "damageValueBody": 6,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 5,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Amethysteingot"
+      }
+    ]
+  }
+}

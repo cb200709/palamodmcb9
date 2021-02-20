@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "palamod_:titaneslab"
+    },
+    "half=top,variant=default": {
+      "model": "palamod_:titaneslab_top"
+    }
+  }
+}

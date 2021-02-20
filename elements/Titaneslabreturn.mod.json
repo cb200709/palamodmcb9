@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "titane",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Titaneslab"
+      },
+      {
+        "value": "CUSTOM:Titaneslab"
+      },
+      {
+        "value": "CUSTOM:Titaneslab"
+      },
+      {
+        "value": "CUSTOM:Titaneslab"
+      },
+      {
+        "value": "CUSTOM:Titaneslab"
+      },
+      {
+        "value": "CUSTOM:Titaneslab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Titaneblock"
+    },
+    "name": "titaneslabreturn",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_fv": 13,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "paladium: 0-15",
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "name": "paladium: 0-15",
+          "x": 0,
+          "y": 224
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "titane : 0-50",
+          "color": {
+            "value": -6710887,
+            "falpha": 0.0
+          },
+          "name": "titane : 0-50",
+          "x": -1,
+          "y": 210
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "findium : 0-156",
+          "color": {
+            "value": -256,
+            "falpha": 0.0
+          },
+          "name": "findium : 0-156",
+          "x": 0,
+          "y": 217
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "green paladium: all",
+          "color": {
+            "value": -13369600,
+            "falpha": 0.0
+          },
+          "name": "green paladium: all",
+          "x": 1,
+          "y": 230
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "améthyste : 0-80",
+          "color": {
+            "value": -6750004,
+            "falpha": 0.0
+          },
+          "name": "améthyste : 0-80",
+          "x": 0,
+          "y": 204
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "couche de minerais",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "couche de minerais",
+          "x": -1,
+          "y": 196
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

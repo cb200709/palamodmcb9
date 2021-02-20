@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "palamod_:findiumslab"
+    },
+    "half=top,variant=default": {
+      "model": "palamod_:findiumslab_top"
+    }
+  }
+}

@@ -1,0 +1,2167 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Paladiumingot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumingot"
+    },
+    {
+      "name": "Palamod",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamod"
+    },
+    {
+      "name": "Amethysteblock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteblock"
+    },
+    {
+      "name": "Amethysteore",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteore"
+    },
+    {
+      "name": "Titaneore",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneore"
+    },
+    {
+      "name": "Paladiumore",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumore"
+    },
+    {
+      "name": "Paladiumgreenore",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumgreenore"
+    },
+    {
+      "name": "Findiumore",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumore"
+    },
+    {
+      "name": "Xpberry",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xpberry"
+    },
+    {
+      "name": "Xpfruit",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xpfruit"
+    },
+    {
+      "name": "Xpberry_xp_items",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xpberry_xp_items",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XpBERRY8XP",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xp_berry_8_xp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Paladiumblock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumblock"
+    },
+    {
+      "name": "Paladiumslab",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumslab"
+    },
+    {
+      "name": "Paladiumstair",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumstair"
+    },
+    {
+      "name": "Amethysteslab",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteslab"
+    },
+    {
+      "name": "Amethystestairs",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystestairs"
+    },
+    {
+      "name": "Caveblockspecon",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caveblockspecon",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Caveblock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "caveblock"
+    },
+    {
+      "name": "Erableplanks",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erableplanks"
+    },
+    {
+      "name": "Jacarandaplanks",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jacarandaplanks"
+    },
+    {
+      "name": "Judeecercisplanks",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judeecercisplanks"
+    },
+    {
+      "name": "Ostryaplanks",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ostryaplanks"
+    },
+    {
+      "name": "Planksall",
+      "type": "tag",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "planksall"
+    },
+    {
+      "name": "Palamodsticks",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodsticks"
+    },
+    {
+      "name": "Palamodcraft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodcraft"
+    },
+    {
+      "name": "Jacarandaslab",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jacarandaslab"
+    },
+    {
+      "name": "Jacarandastairs",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jacarandastairs"
+    },
+    {
+      "name": "Judeecercisslab",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judeecercisslab"
+    },
+    {
+      "name": "Judeecercisstairs",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judeecercisstairs"
+    },
+    {
+      "name": "Erableslab",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erableslab"
+    },
+    {
+      "name": "Erablestairs",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erablestairs"
+    },
+    {
+      "name": "Paladiumingotfurnace",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumingotfurnace"
+    },
+    {
+      "name": "Paladiumblockcraft",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumblockcraft"
+    },
+    {
+      "name": "Paladiumingotblasting",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumingotblasting"
+    },
+    {
+      "name": "Paladiumstairscraft",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumstairscraft"
+    },
+    {
+      "name": "Paladiumslabcraft",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumslabcraft"
+    },
+    {
+      "name": "Paladiumslabreturn",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumslabreturn"
+    },
+    {
+      "name": "Paladiumstairreturn",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumstairreturn"
+    },
+    {
+      "name": "Amethysteingot",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteingot"
+    },
+    {
+      "name": "Amethysteingotfurnace",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteingotfurnace"
+    },
+    {
+      "name": "Amethysteingotblasting",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteingotblasting"
+    },
+    {
+      "name": "Amethysteblockcraft",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteblockcraft"
+    },
+    {
+      "name": "Amethystestairscraft",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystestairscraft"
+    },
+    {
+      "name": "Amethysteslabcraft",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteslabcraft"
+    },
+    {
+      "name": "Amethysteslabreturn",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteslabreturn"
+    },
+    {
+      "name": "Amethytestairsreturn",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethytestairsreturn"
+    },
+    {
+      "name": "Titaneblock",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneblock"
+    },
+    {
+      "name": "Titaneingot",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneingot"
+    },
+    {
+      "name": "Titaneingotfurnace",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneingotfurnace"
+    },
+    {
+      "name": "Titaneingotblasting",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneingotblasting"
+    },
+    {
+      "name": "Titaneblockcraft",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneblockcraft"
+    },
+    {
+      "name": "Titaneslab",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneslab"
+    },
+    {
+      "name": "Titanestairs",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanestairs"
+    },
+    {
+      "name": "Titaneslabcraft",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneslabcraft"
+    },
+    {
+      "name": "Titanestairscraft",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanestairscraft"
+    },
+    {
+      "name": "Titaneslabreturn",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneslabreturn"
+    },
+    {
+      "name": "Titanestairsreturn",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanestairsreturn"
+    },
+    {
+      "name": "Allplankhoe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allplankhoe"
+    },
+    {
+      "name": "Allplankaxe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allplankaxe"
+    },
+    {
+      "name": "Allplankpickaxe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allplankpickaxe"
+    },
+    {
+      "name": "Allplankshovel",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allplankshovel"
+    },
+    {
+      "name": "Allplanksword",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allplanksword"
+    },
+    {
+      "name": "Erableslabcraft",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erableslabcraft"
+    },
+    {
+      "name": "Erablestairscraft",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erablestairscraft"
+    },
+    {
+      "name": "Judecercisslabcraft",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judecercisslabcraft"
+    },
+    {
+      "name": "Judeecercisstairscraft",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judeecercisstairscraft"
+    },
+    {
+      "name": "Jacarandaslabcraft",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jacarandaslabcraft"
+    },
+    {
+      "name": "Jacarandastairscraft",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jacarandastairscraft"
+    },
+    {
+      "name": "Ostryaslab",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ostryaslab"
+    },
+    {
+      "name": "Ostryastairs",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ostryastairs"
+    },
+    {
+      "name": "Ostryaslabcraft",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ostryaslabcraft"
+    },
+    {
+      "name": "Ostryastairscraft",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ostryastairscraft"
+    },
+    {
+      "name": "Greenpaladiumblock",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumblock"
+    },
+    {
+      "name": "Greenpaladiumslab",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumslab"
+    },
+    {
+      "name": "Greenpaladiumstairs",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumstairs"
+    },
+    {
+      "name": "Greenpaladiumingot",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumingot"
+    },
+    {
+      "name": "Greenpaladiumfurnace",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumfurnace"
+    },
+    {
+      "name": "Greenpaladiumblasting",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumblasting"
+    },
+    {
+      "name": "Greenpaladiumblockcraft",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumblockcraft"
+    },
+    {
+      "name": "Greenpaladiumslabcraft",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumslabcraft"
+    },
+    {
+      "name": "Greenpaladiumstairscraft",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumstairscraft"
+    },
+    {
+      "name": "Greenpaladiumslabreturn",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumslabreturn"
+    },
+    {
+      "name": "Greenpaladiumstairsreturn",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenpaladiumstairsreturn"
+    },
+    {
+      "name": "Findium",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findium"
+    },
+    {
+      "name": "Findiumslab",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumslab"
+    },
+    {
+      "name": "Findiumstairs",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumstairs"
+    },
+    {
+      "name": "Findiumblock",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumblock"
+    },
+    {
+      "name": "Findiumfurnace",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumfurnace"
+    },
+    {
+      "name": "Findiumblasting",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumblasting"
+    },
+    {
+      "name": "Findiumblockcraft",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumblockcraft"
+    },
+    {
+      "name": "Findiumstairscraft",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumstairscraft"
+    },
+    {
+      "name": "Findiumslabcraft",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "findiumslabcraft"
+    },
+    {
+      "name": "Palamodplank",
+      "type": "fuel",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank"
+    },
+    {
+      "name": "Palamodplank1",
+      "type": "fuel",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_1"
+    },
+    {
+      "name": "Palamodplank2",
+      "type": "fuel",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_2"
+    },
+    {
+      "name": "Palamodplank3",
+      "type": "fuel",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_3"
+    },
+    {
+      "name": "Palamodplank4",
+      "type": "fuel",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_4"
+    },
+    {
+      "name": "Palamodplank5",
+      "type": "fuel",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_5"
+    },
+    {
+      "name": "Palamodplank6",
+      "type": "fuel",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_6"
+    },
+    {
+      "name": "Palamodplank7",
+      "type": "fuel",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_7"
+    },
+    {
+      "name": "Palamodplank8",
+      "type": "fuel",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_8"
+    },
+    {
+      "name": "Palamodplank9",
+      "type": "fuel",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_9"
+    },
+    {
+      "name": "Palamodplank10",
+      "type": "fuel",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_10"
+    },
+    {
+      "name": "Palamodplank11",
+      "type": "fuel",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodplank_11"
+    },
+    {
+      "name": "Palamodmineoreoverlay",
+      "type": "overlay",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "palamodmineoreoverlay"
+    },
+    {
+      "name": "Amethystearmor",
+      "type": "armor",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystearmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Titanearmor",
+      "type": "armor",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanearmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Nightvisionhelmet",
+      "type": "procedure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nightvisionhelmet",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Strenghtchestplate",
+      "type": "procedure",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strenghtchestplate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hasteleggins",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hasteleggins",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Speedboots",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "speedboots",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Paladiumarmor",
+      "type": "armor",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Endiumnugget",
+      "type": "item",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endiumnugget"
+    },
+    {
+      "name": "Amethystearmorhelmet",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystearmorhelmet"
+    },
+    {
+      "name": "Amethystearmorchestplate",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystearmorchestplate"
+    },
+    {
+      "name": "Amethystearmorleggins",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystearmorleggins"
+    },
+    {
+      "name": "Amethystearmorboots",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystearmorboots"
+    },
+    {
+      "name": "Titanearmorhelmet",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanearmorhelmet"
+    },
+    {
+      "name": "Titanearmorchestplate",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanearmorchestplate"
+    },
+    {
+      "name": "Titanearmorleggins",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanearmorleggins"
+    },
+    {
+      "name": "Titanearmorboots",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanearmorboots"
+    },
+    {
+      "name": "Paladiumarmorhelmet",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumarmorhelmet"
+    },
+    {
+      "name": "Paladiumarmorchestplate",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumarmorchestplate"
+    },
+    {
+      "name": "Paladiumarmorleggins",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumarmorleggins"
+    },
+    {
+      "name": "Paladiumarmorboots",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumarmorboots"
+    },
+    {
+      "name": "Paladiumpickaxe",
+      "type": "tool",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumpickaxe"
+    },
+    {
+      "name": "Paladiumsword",
+      "type": "tool",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumsword"
+    },
+    {
+      "name": "Paladiumshovel",
+      "type": "tool",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumshovel"
+    },
+    {
+      "name": "Enduimingotcraft",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enduimingotcraft"
+    },
+    {
+      "name": "Paladiumaxe",
+      "type": "tool",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumaxe"
+    },
+    {
+      "name": "Amethystepickaxe",
+      "type": "tool",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystepickaxe"
+    },
+    {
+      "name": "Titanepickaxe",
+      "type": "tool",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanepickaxe"
+    },
+    {
+      "name": "Paladiumpickaxecraft",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumpickaxecraft"
+    },
+    {
+      "name": "Titanepickaxecraft",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanepickaxecraft"
+    },
+    {
+      "name": "Amethystepickaxecraft",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystepickaxecraft"
+    },
+    {
+      "name": "Paladiumaxecraft",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumaxecraft"
+    },
+    {
+      "name": "Paladiumswordcraft",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumswordcraft"
+    },
+    {
+      "name": "Paladiumshovelcraft",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumshovelcraft"
+    },
+    {
+      "name": "Fakewater",
+      "type": "fluid",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fakewater"
+    },
+    {
+      "name": "Fakewatercraft",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fakewatercraft"
+    },
+    {
+      "name": "Endium_packIngot",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_ingot"
+    },
+    {
+      "name": "Endium_packBlock",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_block"
+    },
+    {
+      "name": "Endium_packOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_ore_block_recipe"
+    },
+    {
+      "name": "Endium_packBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_block_ore_recipe"
+    },
+    {
+      "name": "Endium_packPickaxe",
+      "type": "tool",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_pickaxe"
+    },
+    {
+      "name": "Endium_packAxe",
+      "type": "tool",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_axe"
+    },
+    {
+      "name": "Endium_packSword",
+      "type": "tool",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_sword"
+    },
+    {
+      "name": "Endium_packShovel",
+      "type": "tool",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_shovel"
+    },
+    {
+      "name": "Endium_packHoe",
+      "type": "tool",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_hoe"
+    },
+    {
+      "name": "Endium_packPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_pickaxe_recipe"
+    },
+    {
+      "name": "Endium_packAxeRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_axe_recipe"
+    },
+    {
+      "name": "Endium_packSwordRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_sword_recipe"
+    },
+    {
+      "name": "Endium_packShovelRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_shovel_recipe"
+    },
+    {
+      "name": "Endium_packHoeRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_hoe_recipe"
+    },
+    {
+      "name": "Endium_packArmor",
+      "type": "armor",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Endium_packArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_armor_helmet_recipe"
+    },
+    {
+      "name": "Endium_packArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_armor_body_recipe"
+    },
+    {
+      "name": "Endium_packArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_armor_leggings_recipe"
+    },
+    {
+      "name": "Endium_packArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endium_pack_armor_boots_recipe"
+    },
+    {
+      "name": "Xpberrynormal",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xpberrynormal"
+    },
+    {
+      "name": "Xpberrycreative",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xpberrycreative"
+    },
+    {
+      "name": "Xpbushtoberry",
+      "type": "procedure",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xpbushtoberry",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FakewaterMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fakewater_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Xpberryitemscreative",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xpberryitemscreative",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Amethysteaxe",
+      "type": "tool",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteaxe"
+    },
+    {
+      "name": "Amethystesword",
+      "type": "tool",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystesword"
+    },
+    {
+      "name": "Amethysteshovel",
+      "type": "tool",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteshovel"
+    },
+    {
+      "name": "AmethysteBroadsword",
+      "type": "tool",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyste_broadsword"
+    },
+    {
+      "name": "Amethystefastsword",
+      "type": "tool",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystefastsword"
+    },
+    {
+      "name": "Amethystehammer",
+      "type": "tool",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystehammer"
+    },
+    {
+      "name": "Hammer",
+      "type": "procedure",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Titanehammer",
+      "type": "tool",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanehammer"
+    },
+    {
+      "name": "Paladiumhammer",
+      "type": "tool",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "paladiumhammer"
+    },
+    {
+      "name": "Endiumhammer",
+      "type": "tool",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endiumhammer"
+    },
+    {
+      "name": "Titaneaxe",
+      "type": "tool",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneaxe"
+    },
+    {
+      "name": "Titanesword",
+      "type": "tool",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanesword"
+    },
+    {
+      "name": "Titaneshovel",
+      "type": "tool",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneshovel"
+    },
+    {
+      "name": "Titanehammercraft",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanehammercraft"
+    },
+    {
+      "name": "Titaneshovelcraft",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneshovelcraft"
+    },
+    {
+      "name": "Titaneswordcraft",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneswordcraft"
+    },
+    {
+      "name": "Titaneaxecraft",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titaneaxecraft"
+    },
+    {
+      "name": "Titanebradsword",
+      "type": "tool",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanebradsword"
+    },
+    {
+      "name": "Titanefastsword",
+      "type": "tool",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanefastsword"
+    },
+    {
+      "name": "Titanestick",
+      "type": "item",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanestick"
+    },
+    {
+      "name": "Titanebroadswordcraft",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanebroadswordcraft"
+    },
+    {
+      "name": "Titanefastswordcraft",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanefastswordcraft"
+    },
+    {
+      "name": "Amethysteswordcraft",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteswordcraft"
+    },
+    {
+      "name": "Amethysteaxecraft",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethysteaxecraft"
+    },
+    {
+      "name": "Endiumaxecraft",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endiumaxecraft"
+    },
+    {
+      "name": "Smithhammer",
+      "type": "tool",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithhammer"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "gamemode",
+      "type": "number",
+      "scope": "global",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "fr_fr": {
+      "tile.jacaranda_planks.name": "Planches de jacaranda",
+      "item.paladium_sword.name": "Epée en paladium",
+      "tile.amethyste_stairs.name": "Escalier en améthyste",
+      "tile.judeecercis_stairs.name": "Escalier en judeecercis",
+      "item.titanebradsword.name": "Broadsword en titane",
+      "item.titanepickaxe.name": "Pioche en titane",
+      "item.amethystearmorboots.name": "Bottes en Amethyste",
+      "tile.ostryaplanks.name": "Ostrya planks",
+      "item.endium_pack_hoe.name": "EndiumHoe nt",
+      "item.endium_pack_axe.nameb": "Hache en endium",
+      "tile.xp_berry_creative.name_": "xp bush créative édition",
+      "fluid.fake_water": "Fake water",
+      "tile.jacarandaplanks.name": "planches en jacaranda",
+      "item.greenpaladiumingot.name": "Greenpaladiumingot",
+      "item.amethysteaxe.name": "Hache en amethyste",
+      "item.titanearmorhelmet.name": "Casque en Titane",
+      "item.titane_helmet.name": "Casque en titane",
+      "tile.endium_block.name": "Block d\u0027endium",
+      "tile.paladium_ore.name": "minerias de paladium",
+      "item.paladiumsword.name": "Paladium sword",
+      "item.titaneshovel.name": "Pelle en titane",
+      "item.amethyste_boots.name": "Bottes en Amethyste",
+      "tile.erable_slab.name": "Slab en erable",
+      "item.findium.name": "Lingot de findium",
+      "tile.paladiumgreenore.name": "Minerias de paladium vert",
+      "item.amethyste_helmet.name": "Casque en améthyste",
+      "tile.ostryastairs.name": "Escalier en Ostrya",
+      "item.amethystesword.name": "Epée en améthyste",
+      "item.titane_bradsword.name": "Broadsword en titane",
+      "tile.greenpaladiumblock.name": "Block de paladium vert",
+      "item.amethystearmorlegs.name": "Jambière en améthyste",
+      "item.endium_pack_ingot.name": "Lingot de titane",
+      "item.titanearmorbody.name": "Plastron en Titane",
+      "tile.findiumslab.name": "Slab en findium",
+      "item.endium_sword.name": "Epée en endium",
+      "item.titanearmorboots.name": "Bottes en Titane",
+      "tile.xpberry.name": "Xp bush poussé",
+      "tile.amethysteore.name": "Minerais d\u0027Améthyste",
+      "item.titane_pickaxe.name": "Pioche en titane",
+      "tile.findiumstairs.name": "éscalier en findium",
+      "tile.amethyste_block.name": "Block d\u0027améthyste",
+      "tile.titaneblock.name": "Block de titane",
+      "item.endiumhammer.name": "Hammer en endium",
+      "item.endium_hoe.name": "Houe en endium",
+      "item.paladiumarmorhelmet.name": "Paladium helmet",
+      "item.titanestick.name": "Stick en Titane",
+      "item.paladiumshovel.name": "Pelle en paladium",
+      "item.titanehammer.name": "Hammer en titane",
+      "item.endium_boots.name": "Bottes en endium",
+      "tile.judeecercisslab.name": "slab en Judeecercis ",
+      "item.smithhammer.name": "Hammer en fer",
+      "tile.ostrya_planks.name": "Planches en Ostrya",
+      "tile.endium_pack_block.name": "Block d\u0027endium",
+      "item.endium_legs.name": "Jambière en endium",
+      "item.titanefastsword.name": "Fastsword en titane",
+      "item.paladiumarmorboots.name": "Bottes en Paladium",
+      "item.xpfruit.name": "Xp berry",
+      "tile.greenpaladiumstairs.name": "Escalier en paladium very",
+      "tile.titane_stairs.name": "Escalier en Titane",
+      "tile.judeecercisstairs.name": "Escalier en judeecercis",
+      "item.titane_axe.name": "Hache en titane",
+      "tile.amethystestairs.name": "Escalier en améthyste",
+      "item.amethyste_axe.name": "Hache en améthyste",
+      "item.green_paladium_ingot.name": "Lingot de paladium vert",
+      "tile.titanestairs.name": "Escalier en titane",
+      "item.endium_pickaxe.name": "Pioche en endium",
+      "tile.xpberrycreative.name": "Xp bush creative",
+      "item.amethyste_shovel.name": "Pelle en améthyste",
+      "item.paladiumhammer.name": "Hammer en paladium",
+      "item.endium_pack_armorhelmet.name": "Casque en endium",
+      "fluid.fakewater": "Fakewater",
+      "tile.xp_berry_normal.name": "Xp bush",
+      "item.endium_pack_pickaxe.name": "Pioche en endium",
+      "item.amethysteshovel.name": "Pelle en Améthyste",
+      "itemGroup.tabpalamod": "Palamod",
+      "item.xp_berry.name": "Xp berry",
+      "tile.paladiumore.name": "Minerais de paladium",
+      "tile.xpberrynormal.name": "Xp bush",
+      "tile.amethysteblock.name": "Block d\u0027améthyste",
+      "tile.erablestairs.name": "Escalier d\u0027erable",
+      "item.titaneaxe.name": "Hache en titane",
+      "item.endium_pack_armorbody.name": "Plastron en Endium",
+      "item.paladiumarmorbody.name": "Plastron de Paladium",
+      "item.endium_shovel.name": "Pelle en endium",
+      "item.amethystefastsword.name": "Fastsword en améthyste",
+      "tile.paladiumstair.name": "Escalier en paladium",
+      "item.paladiumaxe.name": "Hache en paladium",
+      "tile.erableplanks.name": "Planches d\u0027érable",
+      "item.endium_ingot.name": "Lingot en Endium",
+      "item.titaneingot.name": "Lingot de Titane",
+      "tile.jacarandaslab.name": "Slab en jacaranda",
+      "tile.amethysteslab.name": "Slab en Améthyste",
+      "tile.judeecercisplanks.name": "Planches en judeecercis",
+      "item.paladiumarmorlegs.name": "Jambière en paladium",
+      "item.titanearmorlegs.name": "Jambière en titane",
+      "tile.findiumblock.name": "Block de findium",
+      "item.paladiumpickaxe.name": "Pioche de paladium",
+      "tile.ostryaslab.name": "Slab en ostrya",
+      "item.titane_chestplate.name": "Plastron de Titane",
+      "item.paladiumchestplate.name": "Plastron en paladium",
+      "tile.greenpaladiumslab.name": "Slab en paladium vert",
+      "tile.jacarandastairs.name": "Escalier en jacaranda",
+      "tile.paladiumblock.name": "Block de paladium",
+      "item.amethyste_broadsword.name": "Broadsword en Amethyste ",
+      "item.titanechestplate.name": "Plastron en titane",
+      "tile.paladiumslab.name": "Slab en Paladium ",
+      "item.amethystearmorhelmet.name": "Casque en Amethyste",
+      "item.paladium_hammer.name": "Hammer en Paladium ",
+      "item.endiumnugget.name": "Nugget en Endium ",
+      "item.amethystepickaxe.name": "Pioche en améthyste",
+      "item.amethysteingot.name": "Lingot d\u0027Amethyste",
+      "item.endium_helmet.name": "Casque en endium",
+      "item.titane_shovel.name": "Pelle en titane",
+      "tile.green_paladium_stairs.name": "Escalier en paladium vert",
+      "tile.titaneore.name": "minerais de titane",
+      "item.amethystearmorbody.name": "Plastron en titane",
+      "item.paladiumingot.name": "Lingot de paladium vert",
+      "tile.findiumore.name": "minerais de findium",
+      "tile.erable_stairs.name": "Escalier en erable",
+      "item.endium_hammer.name": "Hammer en endium",
+      "tile.caveblock.name": "Caveblock",
+      "item.amethystehammer.name": "hammer en améthyste",
+      "tile.titaneslab.name": "Titane slab",
+      "item.endium_pack_sword.name": "Endium sword",
+      "item.titanesword.name": "Titane sword"
+    },
+    "en_us": {
+      "tile.jacaranda_planks.name": "Jacaranda planks",
+      "tile.amethyste_stairs.name": "Amethyste stairs",
+      "item.paladium_sword.name": "Paladium sword",
+      "tile.judeecercis_stairs.name": "Judeecercis stairs",
+      "item.titanebradsword.name": "Titane Broadsword",
+      "item.titanepickaxe.name": "Titane pickaxe",
+      "item.amethystearmorboots.name": "Amethyste boots",
+      "tile.ostryaplanks.name": "Ostrya planks",
+      "item.endium_pack_hoe.name": "EndiumHoe nt",
+      "tile.xp_berry_creative.name_": "Xp bush creative",
+      "fluid.fake_water": "Fake water",
+      "tile.jacarandaplanks.name": "Jacaranda planks",
+      "item.greenpaladiumingot.name": "Green paladium ingot",
+      "item.amethysteaxe.name": "Amethyste axe",
+      "item.titanearmorhelmet.name": "Titane helmet",
+      "item.titane_helmet.name": "Titane helmet",
+      "tile.endium_block.name": "Block of Endium",
+      "tile.paladium_ore.name": "Paladium ore",
+      "item.paladiumsword.name": "Paladium sword",
+      "item.titaneshovel.name": "Titane shovel",
+      "item.amethyste_boots.name": "amethyste boots",
+      "tile.erable_slab.name": "Erable slab",
+      "item.findium.name": "Findium ingot",
+      "tile.paladiumgreenore.name": "Green paladium ore",
+      "item.amethyste_helmet.name": "Amethyste helmet",
+      "tile.ostryastairs.name": "Ostryastairs",
+      "item.amethystesword.name": "Amethyste sword",
+      "item.titane_bradsword.name": "Titane Broadsword",
+      "tile.greenpaladiumblock.name": "Block of paladium green",
+      "item.amethystearmorlegs.name": "Amethyste leggins",
+      "item.endium_pack_ingot.name": "Endium ingot",
+      "item.titanearmorbody.name": "Titane chestplate",
+      "tile.findiumslab.name": "Findium slab",
+      "item.endium_sword.name": "Endium sword",
+      "item.titanearmorboots.name": "Titane boots",
+      "tile.xpberry.name": "Xp bush growned",
+      "tile.amethysteore.name": "Amethyste ore",
+      "item.titane_pickaxe.name": "Titane pickaxe",
+      "item.endium_pack_armorboots.name": "Endium Boots",
+      "tile.findiumstairs.name": "Findium stairs",
+      "tile.amethyste_block.name": "Amethyste block",
+      "tile.titaneblock.name": "Titane block",
+      "item.endium_pack_axe.name": "Endium Axe",
+      "item.endiumhammer.name": "Endium hammer",
+      "item.endium_hoe.name": "Endium Hoe nt",
+      "item.paladiumarmorhelmet.name": "Paladium helmet",
+      "item.titanestick.name": "Titane stick",
+      "item.paladiumshovel.name": "Paladium shovel",
+      "item.titanehammer.name": "Titane hammer",
+      "item.endium_boots.name": "Endium Boots",
+      "tile.judeecercisslab.name": "Judeecercis slab",
+      "item.smithhammer.name": "Smith hammer",
+      "tile.ostrya_planks.name": "Ostrya planks",
+      "tile.endium_pack_block.name": "Block of Endium",
+      "item.endium_legs.name": "Endium Leggings",
+      "item.titanefastsword.name": "Titane fastsword",
+      "item.paladiumarmorboots.name": "Paladium boots",
+      "item.xpfruit.name": "Xp berry",
+      "tile.greenpaladiumstairs.name": "Green paladium stairs",
+      "tile.titane_stairs.name": "Titane stairs",
+      "tile.judeecercisstairs.name": "Judeecercis stairs",
+      "item.titane_axe.name": "Titane axe",
+      "item.endium_pack_shovel.name": "Endium Shovel nt",
+      "tile.erableslab.name": "Erable slab",
+      "tile.amethystestairs.name": "Amethyste stairs",
+      "item.amethyste_axe.name": "Amethyste axe",
+      "item.green_paladium_ingot.name": "Green paladium ingot",
+      "tile.titanestairs.name": "Titane stairs",
+      "item.endium_pickaxe.name": "Endium Pickaxe",
+      "tile.xpberrycreative.name": "Xp bush creative",
+      "item.amethyste_shovel.name": "Amethyste shovel",
+      "item.paladiumhammer.name": "Paladium hammer",
+      "item.endium_pack_armorlegs.name": "Endium Leggings",
+      "item.endium_pack_armorhelmet.name": "Endium helmet",
+      "fluid.fakewater": "Fakewater",
+      "tile.xp_berry_normal.name": "Xp bush",
+      "item.endium_pack_pickaxe.name": "Endium Pickaxe",
+      "item.amethysteshovel.name": "Amethyste shovel",
+      "itemGroup.tabpalamod": "Palamod",
+      "item.xp_berry.name": "Xp berry",
+      "tile.paladiumore.name": "Paladium ore",
+      "tile.xpberrynormal.name": "Xp bush",
+      "tile.amethysteblock.name": "Amethyste block",
+      "tile.erablestairs.name": "Erable stairs",
+      "item.titaneaxe.name": "Titane axe",
+      "item.paladiumarmorbody.name": "Paladium chestplate",
+      "item.endium_pack_armorbody.name": "Endium Chestplate",
+      "item.endium_shovel.name": "Endium Shovel nt",
+      "item.amethystefastsword.name": "Amethyste fastsword",
+      "tile.paladiumstair.name": "Paladium stairs",
+      "item.paladiumaxe.name": "Paladium axe",
+      "tile.erableplanks.name": "Erable planks",
+      "item.titaneingot.name": "Titane ingot",
+      "tile.jacarandaslab.name": "Jacaranda slab",
+      "tile.amethysteslab.name": "Amethyste slab",
+      "tile.judeecercisplanks.name": "Judeecercis planks",
+      "item.paladiumarmorlegs.name": "Paladium leggins",
+      "item.titanearmorlegs.name": "Titane leggins",
+      "tile.findiumblock.name": "Block of findium",
+      "item.paladiumpickaxe.name": "Paladium pickaxe",
+      "tile.ostryaslab.name": "Ostryaslab",
+      "tile.greenpaladiumslab.name": "Greenpaladiumslab",
+      "tile.jacarandastairs.name": "Jacaranda stairs",
+      "tile.paladiumblock.name": "Block of paladium",
+      "item.amethyste_broadsword.name": "Amethyste Broadsword",
+      "item.titanechestplate.name": "Titane chestplate",
+      "tile.paladiumslab.name": "Paladium slab",
+      "item.amethystearmorhelmet.name": "Amethyste helmet",
+      "item.paladium_hammer.name": "Paladium hammer",
+      "item.endiumnugget.name": "Endium nugget",
+      "item.amethystepickaxe.name": "Amethyste pickaxe",
+      "item.amethysteingot.name": "Amethyste ingot",
+      "item.endium_helmet.name": "Endium helmet",
+      "item.titane_shovel.name": "Titane shovel",
+      "tile.green_paladium_stairs.name": "Green paladium stairs",
+      "tile.titaneore.name": "Titane ore",
+      "item.amethystearmorbody.name": "Amethyste chestplate",
+      "item.paladiumingot.name": "Paladium ingot",
+      "tile.findiumore.name": "Findium ore",
+      "tile.erable_stairs.name": "Erable stairs",
+      "item.endium_hammer.name": "Endium hammer",
+      "tile.caveblock.name": "Cave block",
+      "item.amethystehammer.name": "Amethyste hammer",
+      "tile.titaneslab.name": "Titane slab",
+      "item.endium_pack_sword.name": "Endium sword",
+      "item.titanesword.name": "Titane sword"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "palamod_",
+    "modName": "palamod 1.12",
+    "version": "1.0.0",
+    "author": "Clément, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.palamod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
