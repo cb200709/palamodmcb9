@@ -29,7 +29,7 @@ public class ItemTitaneshovel extends ElementsPalamodMod.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("TITANESHOVEL", 5, 2999, 14f, 0.5f, 10)) {
+		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("TITANESHOVEL", 5, 2999, 8f, 0.5f, 10)) {
 			{
 				this.attackSpeed = -3f;
 			}

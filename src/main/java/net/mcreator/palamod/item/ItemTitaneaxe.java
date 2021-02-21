@@ -46,7 +46,7 @@ public class ItemTitaneaxe extends ElementsPalamodMod.ModElement {
 				.newHashSet(new Block[]{Blocks.PLANKS, Blocks.BOOKSHELF, Blocks.LOG, Blocks.LOG2, Blocks.CHEST, Blocks.PUMPKIN, Blocks.LIT_PUMPKIN,
 						Blocks.MELON_BLOCK, Blocks.LADDER, Blocks.WOODEN_BUTTON, Blocks.WOODEN_PRESSURE_PLATE});
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("TITANEAXE", 5, 2999, 14f, 2.5f, 10), effective_items_set);
+			super(EnumHelper.addToolMaterial("TITANEAXE", 5, 2999, 8f, 2.5f, 10), effective_items_set);
 			this.attackDamage = 2.5f;
 			this.attackSpeed = -3.5f;
 		}

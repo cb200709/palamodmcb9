@@ -1,0 +1,134 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 200,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 136,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 269,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Paladium machine",
+          "color": {
+            "value": -65485,
+            "falpha": 0.0
+          },
+          "name": "Paladium machine",
+          "x": 170,
+          "y": 48
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 154,
+          "y": 73
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 250,
+          "y": 74
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #5",
+          "x": 205,
+          "y": 96
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fleche.png",
+          "use1Xscale": false,
+          "name": "fleche.png",
+          "x": -229,
+          "y": -284
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "wait",
+          "color": {
+            "value": -256,
+            "falpha": 0.0
+          },
+          "name": "wait",
+          "x": 181,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "wait",
+          "color": {
+            "value": -256,
+            "falpha": 0.0
+          },
+          "name": "wait",
+          "x": 224,
+          "y": 99
+        }
+      }
+    ],
+    "onTick": {
+      "name": "PaladiuimmachineWhileThisGUIIsOpenTick"
+    }
+  }
+}

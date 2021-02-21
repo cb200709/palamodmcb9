@@ -34,6 +34,8 @@ import net.minecraft.entity.player.EntityPlayerMP;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.block.Block;
 
+import net.mcreator.palamod.gui.GuiPaladiuimmachine;
+
 import java.util.function.Supplier;
 import java.util.Random;
 import java.util.Map;
@@ -122,11 +124,15 @@ public class ElementsPalamodMod implements IFuelHandler, IWorldGenerator {
 	public static class GuiHandler implements IGuiHandler {
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == GuiPaladiuimmachine.GUIID)
+				return new GuiPaladiuimmachine.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == GuiPaladiuimmachine.GUIID)
+				return new GuiPaladiuimmachine.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}
